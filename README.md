@@ -1,29 +1,30 @@
 # Data_Manipulation_Project
 
-## Overview:
+### Overview:
 
 This project involves analyzing a Women's Super League (WSL) football dataset from 2022-2023 using Python and Pandas. The tasks include data cleaning, computing total goals, extracting player details, computing discipline scores, and organizing data frames with sorting and filtering.
 
-Tasks:
+### Tasks:
 
-Load data into a DataFrame named Q1.
-Print total goals from the dataset.
-Print total goals for each team.
-Create Q4 by dropping rows with missing data and print total goals.
-Create Q5 by removing duplicate rows and print total goals.
-Print the statistical summary of Q5.
-Find and print indexes for the player Bethany England.
-Explain the significance of remaining rows for Bethany England.
-Create Q9 with the Player column as the index and print it.
-Print data for Megan Finnigan from Q9.
-Print goals for Rachel Daly from Q9.
-Add a Discipline column to Q9 and create Q13 with selected columns.
-Create Q14, sorted by Discipline and Player.
-Show sum of Discipline column for each team.
-Create Q16 with players having Discipline > 0, sorted by Team and Discipline.
-Create Q17 with specified data and replace missing values in Discipline.
-Combine Q16 with Q17 to create Q19 and fix team names to proper capitalization.
-Summary:
+1. Load data into a DataFrame named Q1.
+2. Print total goals from the dataset.
+3. Print total goals for each team.
+4. Create Q4 by dropping rows with missing data and print total goals.
+5. Create Q5 by removing duplicate rows and print total goals.
+6. Print the statistical summary of Q5.
+7. Find and print indexes for the player Bethany England.
+8. Explain the significance of remaining rows for Bethany England.
+9. Create Q9 with the Player column as the index and print it.
+10. Print data for Megan Finnigan from Q9.
+11. Print goals for Rachel Daly from Q9.
+12. Add a Discipline column to Q9 and create Q13 with selected columns.
+13. Create Q14, sorted by Discipline and Player.
+14. Show sum of Discipline column for each team.
+15. Create Q16 with players having Discipline > 0, sorted by Team and Discipline.
+16. Create Q17 with specified data and replace missing values in Discipline.
+17. Combine Q16 with Q17 to create Q19 and fix team names to proper capitalization.
+
+### Summary:
 
 Data Analysis: Analyzed WSL football data, cleaned 10% of the dataset, computed total goals, and presented team-wise statistics.
 Player Insights: Extracted player details and computed discipline scores.
