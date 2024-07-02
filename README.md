@@ -26,9 +26,9 @@ This project involves analyzing a Women's Super League (WSL) football dataset fr
 
 ### Summary:
 
-**Data Analysis**: Analyzed WSL football data, cleaned 10% of the dataset, computed total goals, and presented team-wise statistics.
-**Player Insights**: Extracted player details and computed discipline scores.
-**Data Organization**: Organized data frames for focused analysis, improving data integrity and enabling precise team-wise discipline evaluation.
+- **Data Analysis**: Analyzed WSL football data, cleaned 10% of the dataset, computed total goals, and presented team-wise statistics.
+- **Player Insights**: Extracted player details and computed discipline scores.
+- **Data Organization**: Organized data frames for focused analysis, improving data integrity and enabling precise team-wise discipline evaluation.
 
 
 <img width="382" alt="Screenshot 2024-07-01 at 5 27 37 PM" src="https://github.com/pranjalshrestha/Data_Manipulation_Project/assets/135492582/3b2e59d8-ac6d-4d62-81f0-324890f3a94b">
