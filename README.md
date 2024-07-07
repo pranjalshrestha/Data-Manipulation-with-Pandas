@@ -1,10 +1,10 @@
 # WSL Football Data Analysis
 
-### Overview:
+## Overview:
 
 This project involves analyzing a Women's Super League (WSL) football dataset from 2022-2023 using Python and Pandas. The tasks include data cleaning, computing total goals, extracting player details, computing discipline scores, and organizing data frames with sorting and filtering.
 
-### Tasks:
+## Tasks:
 
 1. Load data into a DataFrame named Q1.
 2. Print total goals from the dataset.
@@ -24,7 +24,7 @@ This project involves analyzing a Women's Super League (WSL) football dataset fr
 16. Create Q17 with specified data and replace missing values in Discipline.
 17. Combine Q16 with Q17 to create Q19 and fix team names to proper capitalization.
 
-### Summary:
+## Summary:
 
 - **Data Analysis**: Analyzed WSL football data, cleaned 10% of the dataset, computed total goals, and presented team-wise statistics.
 - **Player Insights**: Extracted player details and computed discipline scores.
@@ -32,3 +32,5 @@ This project involves analyzing a Women's Super League (WSL) football dataset fr
 
 
 <img width="382" alt="Screenshot 2024-07-01 at 5 27 37 PM" src="https://github.com/pranjalshrestha/Data_Manipulation_Project/assets/135492582/3b2e59d8-ac6d-4d62-81f0-324890f3a94b">
+
+---
